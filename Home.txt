@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-02-01T18:32:32-05:00
+
+====== Home ======
+Created Saturday 01 February 2020
+
+[[:Inventory]]
+
+===== Passive =====
+[[:Mental Discipline]] (gith)
+Mage Hand Cantrip (gith) (Hand is invisible)
+
+===== Short Rest =====
+[[:Arcane Recovery]]
+
+===== Long Rest =====
+[[:Spells]]
+[[:Portent]]
+Shield (gith)
+Detect Thoughts (gith, uses wisdom)
+
+===== 2020/02/01 =====
+HP: 27
+
+Look for Crescendo Rosznar in the dungeon.
+Deliver package to The Flagon in the Dragon.
+Find Dwarven stone throne and deliver to Volo.
+
+
