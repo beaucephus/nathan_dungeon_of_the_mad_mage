@@ -20,7 +20,7 @@ Created Saturday 01 February 2020
 Fire Bolt
 Friends
 Message
-Mold Earth
+Prestidigitation
 
 ===== 1st level =====
 Alarm
@@ -28,16 +28,18 @@ Comprehend Languages
 Feather Fall
 Identify
 Mage Armor
-Shield
+Shield (gith)
 Tasha's Hideous Laughter
 
 ===== 2nd level =====
+Detect Thoughts (gith)
 Inisibility
 Scorching Ray
 Suggestion
 Web
 
 ===== 3rd level =====
+Clairvoyance
 Counterspell
 Dispel Magic
 Lightning Bolt

@@ -9,7 +9,7 @@ Created Saturday 01 February 2020
 
 ===== Passive =====
 [[:Mental Discipline]] (gith)
-Mage Hand Cantrip (gith) (Hand is invisible)
+Mage Hand Cantrip (gith, hand is invisible)
 
 ===== Short Rest =====
 [[:Arcane Recovery]]
@@ -17,8 +17,8 @@ Mage Hand Cantrip (gith) (Hand is invisible)
 ===== Long Rest =====
 [[:Spells]]
 [[:Portent]]
-Shield (gith)
-Detect Thoughts (gith, uses wisdom)
+Shield (gith, once)
+Detect Thoughts (gith, once, uses wisdom)
 
 ===== 2020/02/01 =====
 HP: 27
