@@ -7,24 +7,26 @@ Created Saturday 01 February 2020
 
 [[:Inventory]]
 
-===== Passive =====
-[[:Mental Discipline]] (gith)
-Mage Hand Cantrip (gith, hand is invisible)
+===== Slots used =====
+0/4
+0/3
+0/2
 
-===== Short Rest =====
-[[:Arcane Recovery]]
+HP: 
 
-===== Long Rest =====
-[[:Spells]]
-[[:Portent]]
-Shield (gith, once)
-Detect Thoughts (gith, once, uses wisdom)
+===== 2020/03/07 =====
+Long rest in room where grell were
+Elindron, Rothindrar, 
+Smellybottom, Stupid Skull, Born Toothless names written on statues in room where vampire bandits used to be.
+Entered throne room with bones of some type of dragon creature
+[[:Hurm Nurm]] fucking died
+Started [[:Freudmond Sig]]
+
 
 ===== 2020/02/01 =====
-HP: 27
-
 Look for Crescendo Rosznar in the dungeon.
-Deliver package to The Flagon in the Dragon.
-Find Dwarven stone throne and deliver to Volo.
+Deliver package to Klau Kadani The Flagon in the Dragon.
+Find Dwarven alabaster throne and deliver to Volo.
+
 
 
