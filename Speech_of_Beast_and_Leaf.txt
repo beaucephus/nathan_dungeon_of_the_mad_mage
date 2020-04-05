@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-04T15:42:34-04:00
+
+====== Speech of Beast and Leaf ======
+Created Saturday 04 April 2020
+
+You can communicate in a limited manner with beasts and plants.
+They can understand the meaning of your words, though you have no special ability to understand them in return.
+You have advantage on all charisma checks you make to influence them.

@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-04T15:28:39-04:00
+
+====== Freudmond Sig ======
+Created Saturday 04 April 2020
+
+[[:Inventory]]
+Max HP: 38
+
+===== Passive =====
+[[:Speech of Beast and Leaf]]
+[[:Library Access]]
+
+===== Short Rest =====
+[[:Powerful Build]]
+[[:Firbolg Magic]]
+[[:Hidden Step]]
+[[:Wild Shape]]
+
+===== Long Rest =====
+Spells
+[[:Balm of the Summer Court]]
+
+====== Spells ======
+
+===== Cantrips =====
+Produce Flame
+Mold Earth
+Shape Water
+
+===== 1st level =====
+Cure Wounds
+Faerie Fire
+Goodberry
+
+
+===== 2nd level =====
+Heat Metal
+Pass without Trace
+Spike Growth
+
+===== 3rd level =====
+[[:Conjure Animals]]
+Dispel Magic
+Speak with Plants
+

@@ -13,7 +13,49 @@ Mage Hand Cantrip (gith, hand is invisible)
 [[:Arcane Recovery]]
 
 ===== Long Rest =====
-[[:Spells]]
+Spells
 [[:Portent]]
 Shield (gith, once)
 Detect Thoughts (gith, once, uses wisdom)
+
+====== Spells ======
+Created Saturday 01 February 2020
+
+===== Slots =====
+
+==== 1 ====
+0/4
+
+==== 2 ====
+0/3
+
+==== 3 ====
+0/2
+
+===== Cantrips =====
+Fire Bolt
+Friends
+Message
+Prestidigitation
+
+===== 1st level =====
+Alarm
+Comprehend Languages
+Feather Fall
+Identify
+Mage Armor
+Shield (gith)
+Tasha's Hideous Laughter
+
+===== 2nd level =====
+Detect Thoughts (gith)
+Inisibility
+Scorching Ray
+Suggestion
+Web
+
+===== 3rd level =====
+Clairvoyance
+Counterspell
+Dispel Magic
+Lightning Bolt

@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-04T16:08:59-04:00
+
+====== Balm of the Summer Court ======
+Created Saturday 04 April 2020
+
+You are a font of energy that offers respite from injuries.
+You have a pool of fey energy represented by a number of d6s equal to your druid level.
+
+As a bonus action, you can choose an ally you can see within 120 feet of you and spend a number of those dice equal to half your druid level or less.
+Roll the spent dice and add them together.
+The target regains a number of hit points equal to the total.
+The target also gains 1 temporary hit point per die spent.

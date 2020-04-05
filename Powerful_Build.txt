@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-04T15:51:32-04:00
+
+====== Powerful Build ======
+Created Saturday 04 April 2020
+
+You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.

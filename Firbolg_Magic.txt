@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-04T15:46:41-04:00
+
+====== Firbolg Magic ======
+Created Saturday 04 April 2020
+
+Detect Magic or Disguise Self
+
+Uses wisdom.
+
+Disuise self can make you up to 3 feet shorter to better fit in with humans and elves.

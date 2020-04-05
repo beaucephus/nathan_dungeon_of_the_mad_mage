@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-04T15:48:35-04:00
+
+====== Hidden Step ======
+Created Saturday 04 April 2020
+
+As a bonus action, turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw.
