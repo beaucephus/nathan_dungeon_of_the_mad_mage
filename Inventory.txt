@@ -5,6 +5,8 @@ Creation-Date: 2020-02-01T18:32:53-05:00
 ====== Inventory ======
 Created Saturday 01 February 2020
 
+28 GP
+
 Leather armor (equipped)
 Wooden shield (equipped)
 Druidic focus
@@ -25,4 +27,4 @@ Tinderbox
 10 torches
 10 days of Rations
 Waterskin
-50 feet of Hempen rope
+50 feet of Hempen rope (2)

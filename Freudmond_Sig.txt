@@ -37,7 +37,6 @@ Goodberry
 
 ===== 2nd level =====
 Heat Metal
-Pass without Trace
 Spike Growth
 
 ===== 3rd level =====
