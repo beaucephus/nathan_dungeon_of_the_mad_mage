@@ -7,41 +7,39 @@ Created Saturday 04 April 2020
 
 [[:Inventory]]
 Max HP: 38
+Druid 5
 
-===== Passive =====
+=== Passive ===
 [[:Speech of Beast and Leaf]]
 [[:Library Access]]
 
-===== Short Rest =====
+=== Short Rest ===
 [[:Powerful Build]]
 [[:Firbolg Magic]]
 [[:Hidden Step]]
 [[:Wild Shape]]
 
-===== Long Rest =====
+=== Long Rest ===
 Spells
 [[:Balm of the Summer Court]]
 
-====== Spells ======
-
-===== Cantrips =====
+=== Cantrips ===
 Produce Flame
 Mold Earth
 Shape Water
 
-===== 1st level =====
+=== 1st level ===
 Cure Wounds
-Faerie Fire
+Detect Magic (C,R)
+Faerie Fire (C)
 Goodberry
 
+=== 2nd level ===
+Heat Metal (C)
+Spike Growth (C)
 
-===== 2nd level =====
-Detect Magic
-Heat Metal
-Spike Growth
-
-===== 3rd level =====
-[[:Conjure Animals]]
+=== 3rd level ===
+[[:Conjure Animals]] (C)
 Dispel Magic
 Speak with Plants
 

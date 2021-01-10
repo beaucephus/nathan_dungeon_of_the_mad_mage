@@ -5,17 +5,24 @@ Creation-Date: 2020-02-01T18:32:32-05:00
 ====== Home ======
 Created Saturday 01 February 2020
 
-HP: 38/38(8)
-
-29 goodberries
-inspiration
-[[:Balm of the Summer Court]] 2/5
+HP: 38/38
+hidden step
+[[:Balm of the Summer Court]] 5/5
 **Spell Slots**
-**1 0/4**
-**2 1/3**
-**3 0/2**
+**1 3/4**
+**2 2/3**
+**3 1/2**
 
-===== 2020/12/13 =====
+=== Session 7 2021/01/09 ===
+Fought goblins/bugbears/ettins
+Dwarven statue in the ettin's room.
+It's been modified to add a second head
+The hammer is a separate piece that rotates. Found a Circlet of Blasting inside. Bunburry carrying it.
+Found staircase down to second level.
+Followed bugbear and found a mimic that almost killed Kirin.
+Made it to level 2! The arcane chambers
+
+=== Session 6 2020/12/13 ===
 Fought some more bugbears, then a gelatinous cube
 Found a magical teleportation mirror. Didn't figure out how to activate it.
 Found a corpse at the bottom of a pit, Aleth.
@@ -29,23 +36,23 @@ Found Frescoe depicting all 23 floors of the dungeon
 	tower @ 23rd floor "Gate access to halestar's tower from level 23 only"
 
 
-===== 2020/07/03 =====
+=== Session 5 2020/07/03 ===
 Found and fought goblins. They had weird brain creatures in their heads and Art died
 Found AJ's new character, Kirin. He's a weirdo gunslinger that talks a lot about killing. Freud doesn't trust him.
 Fought carrion crawlers
 
-===== 2020/06/21 =====
+=== Session 4 2020/06/21 ===
 Expolored eastern section, fought troll and dead dwarf
 Went back to vapire place, fought the rest of the vampires
 Went towards goblin area, Bob and Blart found shadows. Bob died.
 
-===== 2020/04/04 =====
+=== Session 3 2020/04/04 ===
 Killed Sahuagin, nothing but acid in the ceiling
 Found room full of skulls and Wand of Secrets
 Entered large room with elaborate door with crazy face. Fought manticores.
 Found driftglobe
 
-===== 2020/03/07 =====
+=== Session 2 2020/03/07 ===
 Long rest in room where grell were
 Elindron, Rothindrar, 
 Smellybottom, Stupid Skull, Born Toothless names written on statues in room where vampire bandits used to be.
@@ -53,7 +60,7 @@ Entered throne room with bones of some type of dragon creature
 [[:Hurm Nurm]] fucking died
 Started [[:Freudmond Sig]]
 
-===== 2020/02/01 =====
+=== Session 1 2020/02/01 ===
 Look for Crescendo Rosznar in the dungeon.
 Deliver package to Klau Kadani The Flagon in the Dragon.
 Find Dwarven alabaster throne and deliver to Volo.
