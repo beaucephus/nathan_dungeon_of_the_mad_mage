@@ -36,6 +36,7 @@ Goodberry
 
 
 ===== 2nd level =====
+Detect Magic
 Heat Metal
 Spike Growth
 
