@@ -6,12 +6,14 @@ Creation-Date: 2020-04-04T15:28:39-04:00
 Created Saturday 04 April 2020
 
 [[:Inventory]]
-Max HP: 38
-Druid 5
+Max HP: 44
+(8+5+5+5+5+4) + (2x6)
+Druid 6
 
 === Passive ===
 [[:Speech of Beast and Leaf]]
 [[:Library Access]]
+[[:Hearth of Moonlight and Shadow]]
 
 === Short Rest ===
 [[:Powerful Build]]
@@ -36,6 +38,7 @@ Goodberry
 
 === 2nd level ===
 Heat Metal (C)
+Lesser Restoration
 Spike Growth (C)
 
 === 3rd level ===

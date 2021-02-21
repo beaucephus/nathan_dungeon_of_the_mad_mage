@@ -5,13 +5,17 @@ Creation-Date: 2020-02-01T18:32:53-05:00
 ====== Inventory ======
 Created Saturday 01 February 2020
 
-920 GP
+490 GP
 
-Leather armor (equipped)
+Studded Leather armor (equipped)
 Wooden shield (equipped)
 Druidic focus
 Dagger
-Driftglobe
+[[:Driftglobe]]
+
+===== Backpack =====
+Raw ingredients for Potion of Healing (3)
+copper coil
 
 ===== Writing Kit =====
 Quill

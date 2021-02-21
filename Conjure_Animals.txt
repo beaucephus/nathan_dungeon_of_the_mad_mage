@@ -41,15 +41,11 @@ Owlan Rickman, Owly McBeal, Tim Owlen, Owlando Bloom, Owliver Twist, J.K. Owling
 
 === Wolves ===
 Borkin Freeman, Jiminy Chew, Bark Twain, Subwoofer, McGruff, Bingo, Tater, WInnie the Pooch
-/r repeat (2d20k1 + 4, 8, short)
-[[/r]] repeat (2d4+2, 8, short sum)
-
-1: x
-2: x
-3: x
+!rr 8 2d20kh1 + 4
+!rr 8 2d4 + 2
 
 === Apes ===
-Lucy - 4(5)
+Lucy
 Willie B
-George - 11
-Harambe - X
+George
+Harambe
