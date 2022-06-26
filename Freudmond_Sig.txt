@@ -1,12 +1,12 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-04-04T15:28:39-04:00
 
 ====== Freudmond Sig ======
 Created Saturday 04 April 2020
 
 [[:Inventory]]
-Max HP: 44
+Max HP: 44(8)
 (8+5+5+5+5+4) + (2x6)
 Druid 6
 
