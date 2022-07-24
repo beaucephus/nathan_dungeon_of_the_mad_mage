@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-04-04T16:16:31-04:00
 
 ====== Conjure Animals ======
@@ -43,6 +43,13 @@ Owlan Rickman, Owly McBeal, Tim Owlen, Owlando Bloom, Owliver Twist, J.K. Owling
 Borkin Freeman, Jiminy Chew, Bark Twain, Subwoofer, McGruff, Bingo, Tater, WInnie the Pooch
 !rr 8 2d20kh1 + 4
 !rr 8 2d4 + 2
+
+=== Giant Badgers ===
+Gold Digger. Dufus, White Socks, Ozzy Clawsborne, Furball, Noodle, Tank, Scritches 
+!rr 16 1d20 + 3
+!rr 8 1d6 + 1
+!rr 8 2d4 + 1
+
 
 === Apes ===
 Lucy

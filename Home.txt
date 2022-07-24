@@ -5,15 +5,40 @@ Creation-Date: 2020-02-01T18:32:32-05:00
 ====== Home ======
 Created Saturday 01 February 2020
 
-HP: 44/44
-[[:Balm of the Summer Court]] 2/5
+HP: 40/44(2)
+Wild Shape: 1/2
+Hidden Step: 1/1
+Firbolg Magic: 0/1
+[[:Balm of the Summer Court]] 4/5
 **Spell Slots**
-**1 0/4**
+**1 2/4**
 **2 0/3**
-**3 1/3**
+**3 2/3**
+Jiminy Chew: dead
+Bark Twain: dead
+Subwoofer: dead
+McGruff: dead
+Bingo: dead
+Tater: dead 
+WInnie the Pooch: dead
+Borkin Freeman
 
 
-=== Session 10 ===
+=== Session 12 2022/07/23 ===
+Enter into Garrix' Brewery
+	Garrix wants us to clean up his brewery for a mug
+	Lore: First levels of the dungeons were mined by the Milarken dwarves during Garrix's life
+	Decided to help Garrix by clearing out the monsters defiling his brewery.
+Found the brew room
+	Fought some scaly, smelly (Trogs) cave monsters in the brew room.
+	Found stone and turqoise ring (10g)
+	Saved a well-dressed, caped, duergar named Horgar
+Delved further in and found a Milarken Ale cask
+Fought the boss rot troll
+Got a magic mug from Garrix's ghost and parted ways with Horgar
+
+
+=== Session 11 ===
 Level 2
 Left Shun Shurith's room
 Heading south
@@ -32,11 +57,13 @@ Revisited Rizzoril and exchanged the heads of Shun and Nadia for a key to the 3r
 	She's trapped here in the mountain and she's the one who warned us 
 Found halway protected by ballistae.
 	Defeated the ballistae
-	Garrick's Brewery written above a doorway. Sobbing behind.
+	Garrix's Brewery written above a doorway. Sobbing behind.
 
+
+=== Session 10 ===
 
 === Session 9 ===
-Probably missing notes
+Missing notes
 
 === Session 8 2021/02/20 ===
 Level 2

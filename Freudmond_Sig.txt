@@ -6,7 +6,7 @@ Creation-Date: 2020-04-04T15:28:39-04:00
 Created Saturday 04 April 2020
 
 [[:Inventory]]
-Max HP: 44(8)
+Max HP: 44
 (8+5+5+5+5+4) + (2x6)
 Druid 6
 
